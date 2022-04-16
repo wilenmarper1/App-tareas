@@ -1,0 +1,9 @@
+[
+  { "titulo": "Terminada JS", "estado": "terminada" },
+  { "titulo": "Armar aplicacion de tareas", "estado": "en progreso" },
+  { "titulo": "Break", "estado": "pendiente" },
+  { "titulo": "Deporte", "estado": "terminada" },
+  { "titulo": "programacion", "estado": "pendiente" },
+  { "titulo": "Matematica", "estado": "pendiente" },
+  { "titulo": "netflix", "estado": "la casa de papel" }
+]
